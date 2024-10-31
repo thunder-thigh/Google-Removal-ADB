@@ -10,7 +10,6 @@ Apps like google office , wellbeing, family tracking, fitness will be removed.
 4. Run the following code in the terminal
 ```
 ./google-removal.sh
-
 ```
 
 5. The script will complete itself and also complete post clean-up.
