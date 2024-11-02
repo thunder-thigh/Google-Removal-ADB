@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 # File runs on bash environment
 
 # Installs F-droid
